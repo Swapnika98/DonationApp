@@ -1,0 +1,37 @@
+{"users": [
+    {
+        "email":"a@a.com",
+        "membership": "standard",
+        "name": "Abhinay",
+        "accno": 1234567890,
+        "ifsc": "ICIC00009897"
+    },
+    {
+        "email":"s@s.com",
+        "membership": "premium",
+        "name": "Swapnika",
+        "accno": 90909090,
+        "ifsc": "ICIC000009897"
+    },
+    {
+        "email":"j@j.com",
+        "membership": "premium",
+        "name": "John",
+        "accno": 12345678909,
+        "ifsc": "ICIC00001234"
+    },
+    {
+        "email":"p@p.com",
+        "membership": "standard",
+        "name": "Peter",
+        "accno": 1234567890,
+        "ifsc": "ICIC00009809"
+    },
+    {
+        "email":"m@m.com",
+        "membership": "premium",
+        "name": "Mickey",
+        "accno": 1234567890,
+        "ifsc": "ICIC00008797"
+    }
+]}
